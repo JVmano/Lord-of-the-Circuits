@@ -1,12 +1,16 @@
-# Lord-of-the-Circuits
+# Lord of the Circuits
 
-O principal motivo da criação deste site é a falta de conteúdo simples e centralizado para iniciantes na área tecnológica.
+Lord of the Circuits is the Conclusion Work of Computer Technician of Colégio Estadual do Paraná. Our goal with this project is teach progamming technology using geek references to improve the results of our users. Enhancing their learning in technology content and creating good material for their lives.
 
-O diferencial é a utilização de metaforas geeks para facilitar o aprendizado e engajar melhor o público alvo da página.
+## Was how built?
+Our web pages are build with mostly PHP and pure based HTML, CSS and JS
 
-Este site está sob desenvolvimento, sendo assim todo conteúdo aqui está sujeito a mudanças!
+## Can I read the content?
+Sure! But for now we can't affor a domain for our project then you will need to download and use a php localhost to open our files.
 
-Este projeto foi criado por estudantes do Colégio Arlindo Carvalho de Amorim, em parceria ao instituto We Are All Smart (WAAS)
+## Have will more content in the future?
+Maybe...
 
-We Are All Smart, é uma ONG que empodera jovens a serem protagonistas de seus próprios futuros e influenciadores da comunidade através da tecnologia. 
-Mais detalhes: http://waas.ninja
+## Members:
+- João Vitor de Freitas Melo
+- Nicolas de Freitas Jungles
