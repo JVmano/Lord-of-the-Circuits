@@ -8,7 +8,7 @@ Our web pages are build with mostly PHP and pure based HTML, CSS and JS
 ## Can I read the content?
 Sure! But for now we can't afford a domain for our project then you will need to download and use a php localhost to open our files.
 
-## Have will more content in the future?
+## Will have more content in the future?
 Not anymore
 
 ## Members:
